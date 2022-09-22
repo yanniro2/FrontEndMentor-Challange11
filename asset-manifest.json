@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/FrontEndMentor-Challange11/static/css/main.43d6ae79.css",
+    "main.js": "/FrontEndMentor-Challange11/static/js/main.d96d3662.js",
+    "static/js/787.a97cb00a.chunk.js": "/FrontEndMentor-Challange11/static/js/787.a97cb00a.chunk.js",
+    "static/media/image-product-desktop.jpg": "/FrontEndMentor-Challange11/static/media/image-product-desktop.c96d43af17111fe78e96.jpg",
+    "static/media/image-product-mobile.jpg": "/FrontEndMentor-Challange11/static/media/image-product-mobile.113818bc746dc8e64ffb.jpg",
+    "index.html": "/FrontEndMentor-Challange11/index.html",
+    "static/media/icon-cart.svg": "/FrontEndMentor-Challange11/static/media/icon-cart.9606ad84b7565a3f523f9429396f8066.svg",
+    "main.43d6ae79.css.map": "/FrontEndMentor-Challange11/static/css/main.43d6ae79.css.map",
+    "main.d96d3662.js.map": "/FrontEndMentor-Challange11/static/js/main.d96d3662.js.map",
+    "787.a97cb00a.chunk.js.map": "/FrontEndMentor-Challange11/static/js/787.a97cb00a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43d6ae79.css",
+    "static/js/main.d96d3662.js"
+  ]
+}
